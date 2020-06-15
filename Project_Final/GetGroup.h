@@ -1,10 +1,3 @@
-//
-//  GetGroup.h
-//  Project_Final
-//
-//  Created by sanmuma on 2020/5/3.
-//  Copyright © 2020 NYU. All rights reserved.
-//
 
 #ifndef GetGroup_h
 #define GetGroup_h

@@ -1,10 +1,3 @@
-//
-//  Stock.h
-//  Project_Final
-//
-//  Created by sanmuma on 2020/5/3.
-//  Copyright © 2020 NYU. All rights reserved.
-//
 
 #ifndef Stock_h
 #define Stock_h

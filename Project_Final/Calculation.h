@@ -1,10 +1,3 @@
-//
-//  Calculation.h
-//  Project_Final
-//
-//  Created by sanmuma on 2020/5/5.
-//  Copyright © 2020 NYU. All rights reserved.
-//
 
 #ifndef Calculation_h
 #define Calculation_h

@@ -1,10 +1,3 @@
-//
-//  PlotChart.h
-//  Project_Final
-//
-//  Created by sanmuma on 2020/5/7.
-//  Copyright © 2020 NYU. All rights reserved.
-//
 
 #ifndef PlotChart_h
 #define PlotChart_h
