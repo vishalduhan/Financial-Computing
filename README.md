@@ -17,6 +17,7 @@ Bootstrap Algorithm:
 <br>
 From Zacks, used a query to pull 2019 3rd quarter earnings releases (if a company’s 3rd quarter is far away from the 3rd calendar quarter of 2019, select a quarterly earning close to 3rd calendar quarter of 2019) for all S&P 500 stocks, sorted and divided them into 3 groups:
 <br>
+<blockquote>
 a. Calculated earnings surprise for each stock:
 <br>
     Surprise % = (Actual EPS – EPS Estimate) / abs(EPS Estimate)
@@ -60,3 +61,4 @@ b. Sorted all the surprises in ascending order, and split all the stocks into 3 
         <br>
         ii. Standard Deviation of AAR and CAAR for each group
         <br>
+</blockquote>
